@@ -39,4 +39,4 @@ The solution should expose the capability of
 - https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-6.0&tabs=visual-studio 
 - https://tomasznowok.medium.com/generic-repository-unit-of-work-patterns-in-net-b830b7fb5668 
 - https://www.programmingwithwolfgang.com/repository-pattern-net-core/ 
-
+- - https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/options?view=aspnetcore-6.0
