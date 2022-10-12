@@ -45,3 +45,4 @@ Total Devs: 4
 - Single Responsibility
 - Polymorphism 
 - Strategy Pattern 
+- Data Transfer Objects (DTO)
