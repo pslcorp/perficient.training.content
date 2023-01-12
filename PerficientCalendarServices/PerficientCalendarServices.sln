@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerficientCalendar", "PerficientCalendar\PerficientCalendar.csproj", "{528E2484-AE37-466C-9444-6D967F32020E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerficientCalendar.Data", "PerficientCalendar.Data\PerficientCalendar.Data.csproj", "{5E882C96-4EB1-44F7-A88D-A7C56269133E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerficientCalendar.Business", "PerficientCalendar.Business\PerficientCalendar.Business.csproj", "{5A7FA0FC-B578-4BB5-A342-6A5D4B7C5FA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerficientCalendar.Model", "PerficientCalendar.Model\PerficientCalendar.Model.csproj", "{D89BA6FA-4C44-4EAF-8598-22BBF663AEB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerficientCalendar.Business.Test", "PerficientCalendar.Business.Test\PerficientCalendar.Business.Test.csproj", "{D32A152F-2DB2-4B58-A405-A976DCF57898}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{528E2484-AE37-466C-9444-6D967F32020E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{528E2484-AE37-466C-9444-6D967F32020E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{528E2484-AE37-466C-9444-6D967F32020E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{528E2484-AE37-466C-9444-6D967F32020E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E882C96-4EB1-44F7-A88D-A7C56269133E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E882C96-4EB1-44F7-A88D-A7C56269133E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E882C96-4EB1-44F7-A88D-A7C56269133E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E882C96-4EB1-44F7-A88D-A7C56269133E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01236B94-9576-4B6A-8AD7-D207FB83303F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01236B94-9576-4B6A-8AD7-D207FB83303F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01236B94-9576-4B6A-8AD7-D207FB83303F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01236B94-9576-4B6A-8AD7-D207FB83303F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC0C5AA1-F0C4-4CB6-BCB9-BFF1B9E3D62B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC0C5AA1-F0C4-4CB6-BCB9-BFF1B9E3D62B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC0C5AA1-F0C4-4CB6-BCB9-BFF1B9E3D62B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC0C5AA1-F0C4-4CB6-BCB9-BFF1B9E3D62B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37A23123-6C0A-43C6-9880-977D7D22AA7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37A23123-6C0A-43C6-9880-977D7D22AA7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37A23123-6C0A-43C6-9880-977D7D22AA7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37A23123-6C0A-43C6-9880-977D7D22AA7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A7FA0FC-B578-4BB5-A342-6A5D4B7C5FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A7FA0FC-B578-4BB5-A342-6A5D4B7C5FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A7FA0FC-B578-4BB5-A342-6A5D4B7C5FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A7FA0FC-B578-4BB5-A342-6A5D4B7C5FA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D89BA6FA-4C44-4EAF-8598-22BBF663AEB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D89BA6FA-4C44-4EAF-8598-22BBF663AEB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D89BA6FA-4C44-4EAF-8598-22BBF663AEB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D89BA6FA-4C44-4EAF-8598-22BBF663AEB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9A641D3-B4DD-4DD3-8686-3850BCFF18F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A641D3-B4DD-4DD3-8686-3850BCFF18F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A641D3-B4DD-4DD3-8686-3850BCFF18F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A641D3-B4DD-4DD3-8686-3850BCFF18F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D32A152F-2DB2-4B58-A405-A976DCF57898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D32A152F-2DB2-4B58-A405-A976DCF57898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D32A152F-2DB2-4B58-A405-A976DCF57898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D32A152F-2DB2-4B58-A405-A976DCF57898}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
