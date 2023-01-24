@@ -1,4 +1,4 @@
-## Excercise
+## Exercise
 Create a web API that manages employment information and calculates the salary of the developers who work for it. 
  
 In order to store the developer information, it will be necessary to design a database model that satisfies the following criteria.
