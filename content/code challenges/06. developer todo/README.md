@@ -1,4 +1,4 @@
-## Excercise
+## Exercise
 Create a console app that will receive as a parameter the developer user email e.g. `Sincere@april.biz`. Based on the entered user email get the user personal information and the user ToDos list by calling following services.
 
 - https://jsonplaceholder.typicode.com/users 
