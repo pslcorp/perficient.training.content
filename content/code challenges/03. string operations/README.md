@@ -1,4 +1,4 @@
-## Excercise
+## Exercise
 Write a method that receive 4 names and concatenate it to print a full name with the following structure.
 
 ```c#
