@@ -1,4 +1,4 @@
-## Excercise
+## Exercise
 Create a console app that reads a csv file that contains the information of a groups of developers classified by type. 
 A developer might be classified in one of the following types: 
 - Junior 
