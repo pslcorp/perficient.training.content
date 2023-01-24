@@ -1,4 +1,4 @@
-## Excercise
+## Exercise
 
 In this folder, you will find a solution with a configured application with the code base of a web API service that manages the user lifecycle operations.
 
