@@ -1,4 +1,4 @@
-## Excercise
+## Exercise
 Create a console app that asks for a set of names and will end once the user types letter `e` then the app will prints the names in the order they were introduced. 
 
 #### Requirements
