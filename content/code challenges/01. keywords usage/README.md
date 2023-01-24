@@ -9,7 +9,7 @@ email: test@test.com
 
  ---
 
- ## Excercise
+ ## Exercise
  Create a method that sums 1,...,n numbers as parameters and print the operation result.
 
  ```c#
@@ -23,7 +23,7 @@ email: test@test.com
 
   ---
 
-## Excercise
+## Exercise
 Create a number to word helper method that receives as a parameter (Read the salary from console redline) the salary of a developer. The requirements for the helper method are the following. 
  
 •	Validates if the salary meets the criteria of being greater than 50.000 USD and return true or false in that case. 
