@@ -1,4 +1,4 @@
-## Excercise
+## Exercise
 Create a console app that runs a background process to print the current time of the following cities each 30 seconds.<br>
 
 
