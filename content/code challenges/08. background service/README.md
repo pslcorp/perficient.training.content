@@ -57,4 +57,4 @@ Display a message once the service is stopped:
 
 ### Material
 - [Hosted services](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/hosted-services?view=aspnetcore-6.0&tabs=visual-studio)
-- [Background services](https://www.notion.so/Background-service-2698d39c9c264f0494cc7d320ddafaa9#1657a2160ca34b08b1b84d34e0770ca7)
+- [Worker services in .NET](https://learn.microsoft.com/en-us/dotnet/core/extensions/workers)
